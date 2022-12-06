@@ -66,7 +66,7 @@ Docker Installation
 ===================
 
 Follow the Discord application setup above, skipping the steps relating to
-the `.env` file.
+the ``.env`` file.
 
 Deploy the Docker container as follows, replacing ``YOUR_TOKEN_GOES_HERE``
 with the Discord token obtained above.
